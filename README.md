@@ -24,9 +24,8 @@ When I'm not working with data, I enjoy reading, music road trips and mentoring 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** [Working on a  thrift project to modernize traditional "Esusu" thrift systems by automating collection management, coordinating contributor arrangements, and digitizing local savings processes common across Africa. I am utilizing Jira and Confluence to manage the product backlog, track project milestones, and ensure seamless coordination of contributor arrangements]  
+- **Content Creation:** [Creating a series on what API is and how to make use of it .]
 
 ## 🌱 Currently Learning 
 
