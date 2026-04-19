@@ -1,4 +1,4 @@
-## Hi there, I'm [Oluwaseun Oshiyemi] 👋
+## Hi there, I'm Oluwaseun Oshiyemi 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -29,8 +29,7 @@ When I'm not working with data, I enjoy reading, music road trips and mentoring 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Learning about SQL for data querying and manipulation
 
 ## 🛠️ Technical Skillset
 
