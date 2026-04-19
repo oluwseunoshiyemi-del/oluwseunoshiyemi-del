@@ -50,10 +50,18 @@ When I'm not working with data, I enjoy reading, music road trips and mentoring 
   <img src="https://img.shields.io/badge/LucidChart-Experienced-FF6B6B?style=flat" alt="LucidChart Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Prototyping & UI-UX Analysis
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Figma-Experienced-FF6B6B?style=flat" alt="Figma Skill Badge">
+  <img src="https://img.shields.io/badge/Balsamiq-Experienced-4ECDC4?style=flat" alt="Balsamiq Skill Badge">
+
+ #### Requirement Documentation
+<p>
+  <img src="https://img.shields.io/badge/BRD and FRD-Experienced-45B7D1?style=flat" alt="BRD and FRD Skill Badge">
+  <img src="https://img.shields.io/badge/Traceability Matrix-Expert-96CEB4?style=flat" alt="Traceability Matrix Skill Badge">
 </p>
+
+#### Agile & Project Management
+<p>
+  <img src="https://img.shields.io/badge/Jira and Confluence-Experienced-45B7D1?style=flat" alt="Jira and Confluence Skill Badge">
+  <img src="https://img.shields.io/badge/Trello-Expert-96CEB4?style=flat" alt="Trello Skill Badge">
