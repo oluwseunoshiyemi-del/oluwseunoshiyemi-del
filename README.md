@@ -46,8 +46,8 @@ When I'm not working with data, I enjoy reading, music road trips and mentoring 
 #### Process Modeling & Design
 <p>
   <img src="https://img.shields.io/badge/BPMN + UML-Intermediate-3776AB?style=flat&logo=BPMN&logoColor=white" alt="BPMN Skill Badge">
-  <img src="https://img.Draw.io/badge/R-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Draw.io-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="Draw.io Skill Badge">
+  <img src="https://img.shields.io/badge/Lucid+Chart-Experienced-FF6B6B?style=flat" alt="Lucid+Chart Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
