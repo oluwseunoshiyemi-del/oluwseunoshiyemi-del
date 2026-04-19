@@ -24,8 +24,8 @@ When I'm not working with data, I enjoy reading, music road trips and mentoring 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Working on a  thrift project to modernize traditional "Esusu" thrift systems by automating collection management, coordinating contributor arrangements, and digitizing local savings processes common across Africa. I am utilizing Jira and Confluence to manage the product backlog, track project milestones, and ensure seamless coordination of contributor arrangements]  
-- **Content Creation:** [Creating a series on what API is and how to make use of it .]
+- **Project A:** Working on a  thrift project to modernize traditional "Esusu" thrift systems by automating collection management, coordinating contributor arrangements, and digitizing local savings processes common across Africa. I am utilizing Jira and Confluence to manage the product backlog, track project milestones, and ensure seamless coordination of contributor arrangements  
+- **Content Creation:** Creating a series on what API is and how to make use of it .
 
 ## 🌱 Currently Learning 
 
